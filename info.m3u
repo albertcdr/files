@@ -15,7 +15,7 @@ http://177.10.184.193:8000/play/a0de/index.m3u8
 http://177.10.184.193:8000/play/a0dd/index.m3u8
 #EXTINF:-1 tvg-logo="espn_mx.png" tvg-epg="" group-title="IPTV",DEPORTES | ESPN SUR
 http://177.10.184.193:8000/play/a0fp/index.m3u8
-#EXTINF:-1 tvg-logo="" tvg-epg="sky_sports_mx.png" group-title="IPTV",DEPORTES | SKY SPORT
+#EXTINF:-1 tvg-logo="sky_sports_mx.png" tvg-epg="" group-title="IPTV",DEPORTES | SKY SPORT
 http://177.10.184.60:8002/play/a01d/index.m3u8
 #EXTINF:-1 tvg-logo="tudn_mx.png" tvg-epg="" group-title="IPTV",DEPORTES | TUDN MX
 http://177.10.184.60:8002/play/a013/index.m3u8
@@ -77,9 +77,9 @@ http://177.10.184.193:8000/play/a060/index.m3u8
 http://177.10.184.193:8000/play/a0a4/index.m3u8
 #EXTINF:-1 tvg-logo="discovery_home_and_health_mx.png" tvg-epg="" group-title="IPTV",TV | DISCOVERY HOME & HEALTH
 http://177.10.184.193:8000/play/a09o/index.m3u8
-#EXTINF:-1 tvg-logo="discovery_channel_mx.png" tvg-epg="" group-title="IPTV",TV | DISCOVERY ID
+#EXTINF:-1 tvg-logo="investigation_discovery_mx.png" tvg-epg="" group-title="IPTV",TV | DISCOVERY ID
 http://177.10.184.193:8000/play/a0a8/index.m3u8
-#EXTINF:-1 tvg-logo="discovery_channel_mx.png" tvg-epg="" group-title="IPTV",TV | DISCOVERY THEATHER
+#EXTINF:-1 tvg-logo="discovery_theater_mx.png" tvg-epg="" group-title="IPTV",TV | DISCOVERY THEATHER
 http://177.10.184.193:8000/play/a09n/index.m3u8
 #EXTINF:-1 tvg-logo="discovery_world_mx.png" tvg-epg="" group-title="IPTV",TV | DISCOVERY WORLD
 http://177.10.184.193:8000/play/a0a5/index.m3u8
