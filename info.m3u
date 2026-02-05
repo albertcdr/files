@@ -1,0 +1,111 @@
+#EXTM3U
+#PLAYLIST: ORDEN=CATEGORIA > CANAL | GRUPO=IPTV | tvg-logo asignado por coincidencia
+
+#EXTINF:-1 tvg-logo="espn_mx.png" tvg-epg="" group-title="IPTV",DEPORTES | ESPN
+http://177.10.184.193:8000/play/a0dg/index.m3u8
+#EXTINF:-1 tvg-logo="espn_2_mx.png" tvg-epg="" group-title="IPTV",DEPORTES | ESPN 2
+http://177.10.184.193:8000/play/a0db/index.m3u8
+#EXTINF:-1 tvg-logo="espn_3_mx.png" tvg-epg="" group-title="IPTV",DEPORTES | ESPN 3
+http://177.10.184.193:8000/play/a0dc/index.m3u8
+#EXTINF:-1 tvg-logo="espn_4_mx.png" tvg-epg="" group-title="IPTV",DEPORTES | ESPN 4
+http://177.10.184.193:8000/play/a0dp/index.m3u8
+#EXTINF:-1 tvg-logo="espn_5_mx.png" tvg-epg="" group-title="IPTV",DEPORTES | ESPN 5
+http://177.10.184.193:8000/play/a0de/index.m3u8
+#EXTINF:-1 tvg-logo="espn_6_mx.png" tvg-epg="" group-title="IPTV",DEPORTES | ESPN 6
+http://177.10.184.193:8000/play/a0dd/index.m3u8
+#EXTINF:-1 tvg-logo="espn_mx.png" tvg-epg="" group-title="IPTV",DEPORTES | ESPN SUR
+http://177.10.184.193:8000/play/a0fp/index.m3u8
+#EXTINF:-1 tvg-logo="" tvg-epg="" group-title="IPTV",DEPORTES | SKY SPORT
+http://177.10.184.60:8002/play/a01d/index.m3u8
+#EXTINF:-1 tvg-logo="tudn_mx.png" tvg-epg="" group-title="IPTV",DEPORTES | TUDN MX
+http://177.10.184.60:8002/play/a013/index.m3u8
+#EXTINF:-1 tvg-logo="tudn_mx.png" tvg-epg="" group-title="IPTV",DEPORTES | TUDN USA
+http://177.10.184.60:8002/play/a00e/index.m3u8
+#EXTINF:-1 tvg-logo="tudn_mx.png" tvg-epg="" group-title="IPTV",DEPORTES | TUDN USA
+http://177.10.184.193:8000/play/a0ft/index.m3u8
+#EXTINF:-1 tvg-logo="cartoon_network_mx.png" tvg-epg="" group-title="IPTV",INFANTIL | CARTOON NETWORK
+http://177.10.184.193:8000/play/a0eq/index.m3u8
+#EXTINF:-1 tvg-logo="cartoonito_mx.png" tvg-epg="" group-title="IPTV",INFANTIL | CARTOONITO
+http://177.10.184.193:8000/play/a03e/index.m3u8
+#EXTINF:-1 tvg-logo="discovery_kids_mx.png" tvg-epg="" group-title="IPTV",INFANTIL | DISCOVERY KIDS
+http://177.10.184.193:8000/play/a02s/index.m3u8
+#EXTINF:-1 tvg-logo="tooncast_mx.png" tvg-epg="" group-title="IPTV",INFANTIL | TOONCAST
+http://177.10.184.193:8000/play/a04s/index.m3u8
+#EXTINF:-1 tvg-logo="azteca_7_mx.png" tvg-epg="" group-title="IPTV",LOCAL | AZTECA 7
+http://177.10.184.60:8002/play/a00o/index.m3u8
+#EXTINF:-1 tvg-logo="canal_5_mx.png" tvg-epg="" group-title="IPTV",LOCAL | CANAL 5
+http://177.10.184.60:8002/play/a00s/index.m3u8
+#EXTINF:-1 tvg-logo="canal_5_mx.png" tvg-epg="" group-title="IPTV",LOCAL | CANAL 5
+http://177.10.184.193:8000/play/a0ej/index.m3u8
+#EXTINF:-1 tvg-logo="las_estrellas_mx.png" tvg-epg="" group-title="IPTV",LOCAL | LAS ESTRELLAS
+http://177.10.184.193:8000/play/a0ei/index.m3u8
+#EXTINF:-1 tvg-logo="" tvg-epg="" group-title="IPTV",OTROS | VENUS
+http://177.10.184.193:8000/play/a0ds/index.m3u8
+#EXTINF:-1 tvg-logo="amc_mx.png" tvg-epg="" group-title="IPTV",PELICULAS | AMC
+http://177.10.184.193:8000/play/a0d0/index.m3u8
+#EXTINF:-1 tvg-logo="cinecanal_mx.png" tvg-epg="" group-title="IPTV",PELICULAS | CINECANAL
+http://177.10.184.193:8000/play/a059/index.m3u8
+#EXTINF:-1 tvg-logo="" tvg-epg="" group-title="IPTV",PELICULAS | DE PELICULAS
+http://177.10.184.60:8002/play/a00h/index.m3u8
+#EXTINF:-1 tvg-logo="golden_mx.png" tvg-epg="" group-title="IPTV",PELICULAS | GOLDEN PREMIERE
+http://177.10.184.193:8000/play/a02v/index.m3u8
+#EXTINF:-1 tvg-logo="golden_mx.png" tvg-epg="" group-title="IPTV",PELICULAS | GOLDEN PREMIERE
+http://177.10.184.193:8000/play/a02u/index.m3u8
+#EXTINF:-1 tvg-logo="hbo_mx.png" tvg-epg="" group-title="IPTV",PELICULAS | HBO
+http://177.10.184.193:8000/play/a02z/index.m3u8
+#EXTINF:-1 tvg-logo="hbo_2_mx.png" tvg-epg="" group-title="IPTV",PELICULAS | HBO 2
+http://177.10.184.193:8000/play/a030/index.m3u8
+#EXTINF:-1 tvg-logo="hbo_family_mx.png" tvg-epg="" group-title="IPTV",PELICULAS | HBO FAMILY
+http://177.10.184.193:8000/play/a032/index.m3u8
+#EXTINF:-1 tvg-logo="hbo_plus_mx.png" tvg-epg="" group-title="IPTV",PELICULAS | HBO PLUS
+http://177.10.184.193:8000/play/a031/index.m3u8
+#EXTINF:-1 tvg-logo="sony_mx.png" tvg-epg="" group-title="IPTV",PELICULAS | SONY MOVIES
+http://177.10.184.193:8000/play/a0d4/index.m3u8
+#EXTINF:-1 tvg-logo="star_channel_mx.png" tvg-epg="" group-title="IPTV",PELICULAS | STAR CHANNEL
+http://177.10.184.193:8000/play/a056/index.m3u8
+#EXTINF:-1 tvg-logo="universal_cinema_mx.png" tvg-epg="" group-title="IPTV",PELICULAS | UNIVERSAL CINEMA
+http://177.10.184.193:8000/play/a0a9/index.m3u8
+#EXTINF:-1 tvg-logo="ae_mx.png" tvg-epg="" group-title="IPTV",TV | A&E
+http://177.10.184.193:8000/play/a0cz/index.m3u8
+#EXTINF:-1 tvg-logo="animal_planet_mx.png" tvg-epg="" group-title="IPTV",TV | ANIMAL PLANET
+http://177.10.184.193:8000/play/a050/index.m3u8
+#EXTINF:-1 tvg-logo="animal_planet_mx.png" tvg-epg="" group-title="IPTV",TV | ANIMAL PLANET
+http://177.10.184.193:8000/play/a0cw/index.m3u8
+#EXTINF:-1 tvg-logo="axn_mx.png" tvg-epg="" group-title="IPTV",TV | AXN
+http://177.10.184.193:8000/play/a060/index.m3u8
+#EXTINF:-1 tvg-logo="discovery_channel_mx.png" tvg-epg="" group-title="IPTV",TV | DISCOVERY CHANNEL
+http://177.10.184.193:8000/play/a0a4/index.m3u8
+#EXTINF:-1 tvg-logo="discovery_home_and_health_mx.png" tvg-epg="" group-title="IPTV",TV | DISCOVERY HOME & HEALTH
+http://177.10.184.193:8000/play/a09o/index.m3u8
+#EXTINF:-1 tvg-logo="discovery_channel_mx.png" tvg-epg="" group-title="IPTV",TV | DISCOVERY ID
+http://177.10.184.193:8000/play/a0a8/index.m3u8
+#EXTINF:-1 tvg-logo="discovery_channel_mx.png" tvg-epg="" group-title="IPTV",TV | DISCOVERY THEATHER
+http://177.10.184.193:8000/play/a09n/index.m3u8
+#EXTINF:-1 tvg-logo="discovery_world_mx.png" tvg-epg="" group-title="IPTV",TV | DISCOVERY WORLD
+http://177.10.184.193:8000/play/a0a5/index.m3u8
+#EXTINF:-1 tvg-logo="e_mx.png" tvg-epg="" group-title="IPTV",TV | E! ENTERTAIRMENT
+http://177.10.184.193:8000/play/a0cx/index.m3u8
+#EXTINF:-1 tvg-logo="fx_mx.png" tvg-epg="" group-title="IPTV",TV | FX
+http://177.10.184.193:8000/play/a0d2/index.m3u8
+#EXTINF:-1 tvg-logo="history_mx.png" tvg-epg="" group-title="IPTV",TV | HISTORY
+http://177.10.184.193:8000/play/a040/index.m3u8
+#EXTINF:-1 tvg-logo="nat_geo_mx.png" tvg-epg="" group-title="IPTV",TV | NAT GEO
+http://177.10.184.193:8000/play/a0a2/index.m3u8
+#EXTINF:-1 tvg-logo="sony_mx.png" tvg-epg="" group-title="IPTV",TV | SONY CHANNEL
+http://177.10.184.193:8000/play/a058/index.m3u8
+#EXTINF:-1 tvg-logo="space_mx.png" tvg-epg="" group-title="IPTV",TV | SPACE
+http://177.10.184.193:8000/play/a061/index.m3u8
+#EXTINF:-1 tvg-logo="tnt_mx.png" tvg-epg="" group-title="IPTV",TV | TNT
+http://177.10.184.193:8000/play/a09m/index.m3u8
+#EXTINF:-1 tvg-logo="universal_comedy_mx.png" tvg-epg="" group-title="IPTV",TV | UNIVERSAL COMEDY
+http://177.10.184.193:8000/play/a09x/index.m3u8
+#EXTINF:-1 tvg-logo="universal_crime_mx.png" tvg-epg="" group-title="IPTV",TV | UNIVERSAL CRIME
+http://177.10.184.193:8000/play/a09w/index.m3u8
+#EXTINF:-1 tvg-logo="universal_premiere_mx.png" tvg-epg="" group-title="IPTV",TV | UNIVERSAL PREMIERE
+http://177.10.184.193:8000/play/a09u/index.m3u8
+#EXTINF:-1 tvg-logo="universal_reality_mx.png" tvg-epg="" group-title="IPTV",TV | UNIVERSAL REALITY
+http://177.10.184.193:8000/play/a09v/index.m3u8
+#EXTINF:-1 tvg-logo="univision_mx.png" tvg-epg="" group-title="IPTV",TV | UNIVISION
+http://177.10.184.193:8000/play/a0a7/index.m3u8
+#EXTINF:-1 tvg-logo="warner_mx.png" tvg-epg="" group-title="IPTV",TV | WARNER TV
+http://177.10.184.193:8000/play/a057/index.m3u8
