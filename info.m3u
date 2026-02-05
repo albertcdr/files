@@ -15,7 +15,7 @@ http://177.10.184.193:8000/play/a0de/index.m3u8
 http://177.10.184.193:8000/play/a0dd/index.m3u8
 #EXTINF:-1 tvg-logo="espn_mx.png" tvg-epg="" group-title="IPTV",DEPORTES | ESPN SUR
 http://177.10.184.193:8000/play/a0fp/index.m3u8
-#EXTINF:-1 tvg-logo="" tvg-epg="" group-title="IPTV",DEPORTES | SKY SPORT
+#EXTINF:-1 tvg-logo="" tvg-epg="sky_sports_mx.png" group-title="IPTV",DEPORTES | SKY SPORT
 http://177.10.184.60:8002/play/a01d/index.m3u8
 #EXTINF:-1 tvg-logo="tudn_mx.png" tvg-epg="" group-title="IPTV",DEPORTES | TUDN MX
 http://177.10.184.60:8002/play/a013/index.m3u8
@@ -39,13 +39,13 @@ http://177.10.184.60:8002/play/a00s/index.m3u8
 http://177.10.184.193:8000/play/a0ej/index.m3u8
 #EXTINF:-1 tvg-logo="las_estrellas_mx.png" tvg-epg="" group-title="IPTV",LOCAL | LAS ESTRELLAS
 http://177.10.184.193:8000/play/a0ei/index.m3u8
-#EXTINF:-1 tvg-logo="" tvg-epg="" group-title="IPTV",OTROS | VENUS
+#EXTINF:-1 tvg-logo="pasiones_nx.png" tvg-epg="" group-title="IPTV",OTROS | PASIONES
 http://177.10.184.193:8000/play/a0ds/index.m3u8
 #EXTINF:-1 tvg-logo="amc_mx.png" tvg-epg="" group-title="IPTV",PELICULAS | AMC
 http://177.10.184.193:8000/play/a0d0/index.m3u8
 #EXTINF:-1 tvg-logo="cinecanal_mx.png" tvg-epg="" group-title="IPTV",PELICULAS | CINECANAL
 http://177.10.184.193:8000/play/a059/index.m3u8
-#EXTINF:-1 tvg-logo="" tvg-epg="" group-title="IPTV",PELICULAS | DE PELICULAS
+#EXTINF:-1 tvg-logo="de_pelicula_mx.png" tvg-epg="" group-title="IPTV",PELICULAS | DE PELICULA
 http://177.10.184.60:8002/play/a00h/index.m3u8
 #EXTINF:-1 tvg-logo="golden_mx.png" tvg-epg="" group-title="IPTV",PELICULAS | GOLDEN PREMIERE
 http://177.10.184.193:8000/play/a02v/index.m3u8
