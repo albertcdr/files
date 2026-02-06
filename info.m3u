@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ESPN2.hn" tvg-logo="espn_mx.png" group-title="IPTV",DEPORTES | ESPN
 http://177.10.184.193:8000/play/a0dg/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.hn" tvg-logo="espn_2_mx.png" group-title="IPTV",DEPORTES | ESPN 2
+#EXTINF:-1 tvg-id="Canal.ESPN.2.(Costa.Rica).cr" tvg-logo="espn_2_mx.png" group-title="IPTV",DEPORTES | ESPN 2
 http://177.10.184.193:8000/play/a0db/index.m3u8
 #EXTINF:-1 tvg-id="ESPN3.hn" tvg-logo="espn_3_mx.png" group-title="IPTV",DEPORTES | ESPN 3
 http://177.10.184.193:8000/play/a0dc/index.m3u8
