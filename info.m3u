@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-bnjdsl.xml.gz"
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-bnjdsl.xml"
 
 #EXTINF:-1 tvg-id="ESPN.hn" tvg-name="HN - ESPN" tvg-logo="espn_mx.png" group-title="IPTV",DEPORTES | ESPN
 http://177.10.184.193:8000/play/a0dg/index.m3u8
